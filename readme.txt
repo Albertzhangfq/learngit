@@ -1,2 +1,2 @@
-Git is not free 
-Git is a foolish tool
+Git is not free
+Git is something good
